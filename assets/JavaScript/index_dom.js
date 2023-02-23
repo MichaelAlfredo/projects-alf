@@ -32,8 +32,8 @@ d.addEventListener("DOMContentLoaded", (e) => {
   responsiveMedia(
     "gmaps",
     "(min-width:1024px)",
-    `<a href="https://goo.gl/maps/p2Lz6gyWWoH9DFAn9" target="_blank" rel="noopener">Ver video</a>`,
-    `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3935.6767056132126!2d-82.48759729583202!3d9.44972154368529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa615e5015fa34b%3A0x2eab706756a1f4f8!2sCentro%20De%20Salud!5e0!3m2!1ses!2spa!4v1672882165283!5m2!1ses!2spa" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`
+    `<a href="https://goo.gl/maps/p2Lz6gyWWoH9DFAn9" target="_blank" rel="noopener">Ver Mapa</a>`,
+    `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25656.786708181306!2d-79.55142158437502!3d8.98296430000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8faca8e31fbb2223%3A0x2fd43fc2ee8c3d18!2sF%26F%20Tower!5e1!3m2!1ses-419!2spa!4v1677167762180!5m2!1ses-419!2spa" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`
   );
 
   getGeolocation("geolocation");
